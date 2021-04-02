@@ -155,4 +155,4 @@ crashlytics-build.properties
 
 *.sln
 *.DS_Store
-
+.idea/
