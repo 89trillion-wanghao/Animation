@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Reward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 0
+      maxTextureSize: 0
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 4feb6201c496843659abd14d2e496cb6, type: 3}
+    - {fileID: 21300000, guid: 866d905f383fa444682774e0b2e946d7, type: 3}
+    - {fileID: 21300000, guid: fa0e168c341684c1c849961196a73185, type: 3}
+    - {fileID: 21300000, guid: 54803837a0e1049469e2cdc0eb0c5b15, type: 3}
+    - {fileID: 21300000, guid: 82f5cf165611a47b18b7f9aaf98385b5, type: 3}
+    - {fileID: 21300000, guid: 55e7e07530ff1412a94d158385e2cd65, type: 3}
+    totalSpriteSurfaceArea: 87228
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4feb6201c496843659abd14d2e496cb6, type: 3}
+  - {fileID: 21300000, guid: 55e7e07530ff1412a94d158385e2cd65, type: 3}
+  - {fileID: 21300000, guid: 82f5cf165611a47b18b7f9aaf98385b5, type: 3}
+  - {fileID: 21300000, guid: 54803837a0e1049469e2cdc0eb0c5b15, type: 3}
+  - {fileID: 21300000, guid: fa0e168c341684c1c849961196a73185, type: 3}
+  - {fileID: 21300000, guid: 866d905f383fa444682774e0b2e946d7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1
+  - 6
+  - 5
+  - 4
+  - 3
+  - 2
+  m_Tag: Reward
+  m_IsVariant: 0
