@@ -458,7 +458,7 @@ GameObject:
   - component: {fileID: 825598187725041149}
   - component: {fileID: 8925840558301700598}
   m_Layer: 0
-  m_Name: BoxAnimation 1
+  m_Name: BoxAnimation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
